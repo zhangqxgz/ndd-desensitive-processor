@@ -6,6 +6,7 @@
 ## 项目信息
 
 - 目录：`C:\dev\code\ndd_plugins\desensitive_processor`（WSL：`/mnt/c/dev/code/ndd_plugins/desensitive_processor`）
+- GitHub（公开，GPL-3.0）：https://github.com/zhangqxgz/ndd-desensitive-processor
 - 用途：Notepad--（NDD）插件，按关键词映射表对当前文档一键脱敏/还原
 - 当前版本：v1.0（2026-09-21）
 - 发布包：`dist\desensitive_processor-v1.0.zip`

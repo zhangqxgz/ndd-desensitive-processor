@@ -4,6 +4,11 @@
 
 Notepad--（NDD）插件：按自定义「关键词映射表」对当前文档执行一键脱敏/还原。
 
+## 下载
+
+- 安装包（推荐）：[GitHub Releases](https://github.com/zhangqxgz/ndd-desensitive-processor/releases) 下载 `desensitive_processor-v1.0.zip`
+- 源码：`git clone https://github.com/zhangqxgz/ndd-desensitive-processor.git`
+
 ## 功能
 
 - 映射表：启用开关、原文、替换为，可增删、上移/下移
