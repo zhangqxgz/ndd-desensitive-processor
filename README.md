@@ -1,5 +1,7 @@
 # NDD 脱敏处理器插件（desensitive_processor）
 
+**简体中文** | [English](README.en.md) | [日本語](README.ja.md)
+
 > 详细操作手册：`2026-09-21-NDD脱敏处理器插件详细操作手册.md`（同目录，含安装/使用/编译/排障/原理）
 
 Notepad--（NDD）插件：按自定义「关键词映射表」对当前文档执行一键脱敏/还原。
