@@ -47,6 +47,13 @@ Notepad--（NDD）插件：按自定义「关键词映射表」对当前文档�
 若目标 NDD 目录内有 `Qt6Core.dll`（Qt6 版本），插件需重新编译，
 安装脚本会检测并给出提示。
 
+## 相关项目
+
+- Notepad--（NDD）主程序：[Gitee](https://gitee.com/cxasm/notepad--) / [GitHub](https://github.com/cxasm/notepad--)
+- NDD 官方插件项目（插件示例与收录入口）：[Gitee](https://gitee.com/cxasm/ndd-plugin) / [GitHub](https://github.com/cxasm/ndd-plugin)
+- NDD 社区插件组织：[Gitee ndd-community](https://gitee.com/ndd-community)
+- 本插件 GitHub 仓库：https://github.com/zhangqxgz/ndd-desensitive-processor
+
 ## 开源协议
 
 本项目采用 GPL-3.0 协议（见 `LICENSE`）。

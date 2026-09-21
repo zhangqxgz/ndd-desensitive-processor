@@ -54,6 +54,13 @@
 対象の NDD フォルダに `Qt6Core.dll`（Qt6 ビルド）がある場合、プラグインは
 再コンパイルが必要です。インストーラーが検出して警告を表示します。
 
+## 関連プロジェクト
+
+- Notepad--（NDD）本体：[Gitee](https://gitee.com/cxasm/notepad--) / [GitHub](https://github.com/cxasm/notepad--)
+- NDD 公式プラグインプロジェクト（サンプル・収録窓口）：[Gitee](https://gitee.com/cxasm/ndd-plugin) / [GitHub](https://github.com/cxasm/ndd-plugin)
+- NDD コミュニティプラグイン組織：[Gitee ndd-community](https://gitee.com/ndd-community)
+- 本プラグインの GitHub リポジトリ：https://github.com/zhangqxgz/ndd-desensitive-processor
+
 ## ライセンス
 
 GPL-3.0（`LICENSE` を参照）。

@@ -53,6 +53,13 @@ Compatibility: Windows 64-bit, Qt5 builds of Notepad-- (official v3.x series,
 tested on v3.8.2). If the target NDD folder contains `Qt6Core.dll` (Qt6 build),
 the plugin must be rebuilt; the installer detects this and shows a warning.
 
+## Related projects
+
+- Notepad-- (NDD) main program: [Gitee](https://gitee.com/cxasm/notepad--) / [GitHub](https://github.com/cxasm/notepad--)
+- Official NDD plugin project (examples & plugin submissions): [Gitee](https://gitee.com/cxasm/ndd-plugin) / [GitHub](https://github.com/cxasm/ndd-plugin)
+- NDD community plugin organization: [Gitee ndd-community](https://gitee.com/ndd-community)
+- This plugin on GitHub: https://github.com/zhangqxgz/ndd-desensitive-processor
+
 ## License
 
 GPL-3.0 (see `LICENSE`).
