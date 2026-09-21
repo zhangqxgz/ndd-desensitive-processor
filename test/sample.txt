@@ -1,0 +1,9 @@
+测试数据（脱敏插件用例）
+
+客户姓名：oeem4mxvtqbh，联系电话：13800138000，身份证号：110101199003077777
+客户姓名：李四，联系电话：13900139000，身份证号：110101199102081234
+
+公司内部代号 lvurb23r7zyd 项目，负责人 lvurb23r7zyd 团队，lvurb23r7zyd 相关文档编号 ABC-001
+订单号：lvurb23r7zyd-2026-0001，备注：lvurb23r7zyd测试
+
+重复场景：lvurb23r7zyd 和 ABC 同时出现；lvurb23r7zydlvurb23r7zyd 连写；ab 与 lvurb23r7zyd 重叠。

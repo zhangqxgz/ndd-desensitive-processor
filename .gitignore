@@ -1,0 +1,19 @@
+# 构建产物
+build/*
+!build/install_vs.cmd
+!build/install_qt.cmd
+dist/
+tools/*/build/
+tools/*/out/
+*.user
+aqtinstall.log
+
+# 测试用绿色版 NDD（体积大，请自行下载官方版）
+test/Notepad--v3.8.2-win10-portable/
+test/Notepad--*.zip
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+sdk/lib/*.exp
