@@ -1,4 +1,4 @@
-# NDD 脱敏处理器插件（desensitive_processor）
+# Notepad--（NDD）脱敏处理器插件 / Desensitization Processor Plugin
 
 **简体中文** | [English](README.en.md) | [日本語](README.ja.md)
 
@@ -6,10 +6,12 @@
 
 Notepad--（NDD）插件：按自定义「关键词映射表」对当前文档执行一键脱敏/还原。
 
+A keyword-mapping desensitize & restore plugin for **Notepad--** (aka **NDD**).
+
 ## 下载
 
-- 安装包（推荐）：[GitHub Releases](https://github.com/zhangqxgz/ndd-desensitive-processor/releases) 下载 `desensitive_processor-v1.0.zip`
-- 源码：`git clone https://github.com/zhangqxgz/ndd-desensitive-processor.git`
+- 安装包（推荐）：[GitHub Releases](https://github.com/zhangqxgz/notepad--ndd-desensitize-plugin/releases) 下载 `desensitive_processor-v1.0.zip`
+- 源码：`git clone https://github.com/zhangqxgz/notepad--ndd-desensitize-plugin.git`
 
 ## 功能
 
@@ -52,7 +54,7 @@ Notepad--（NDD）插件：按自定义「关键词映射表」对当前文档�
 - Notepad--（NDD）主程序：[Gitee](https://gitee.com/cxasm/notepad--) / [GitHub](https://github.com/cxasm/notepad--)
 - NDD 官方插件项目（插件示例与收录入口）：[Gitee](https://gitee.com/cxasm/ndd-plugin) / [GitHub](https://github.com/cxasm/ndd-plugin)
 - NDD 社区插件组织：[Gitee ndd-community](https://gitee.com/ndd-community)
-- 本插件 GitHub 仓库：https://github.com/zhangqxgz/ndd-desensitive-processor
+- 本插件 GitHub 仓库：https://github.com/zhangqxgz/notepad--ndd-desensitize-plugin
 
 ## 开源协议
 

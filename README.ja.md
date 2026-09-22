@@ -1,18 +1,18 @@
-# NDD マスキングプロセッサプラグイン (desensitive_processor)
+# Notepad--（NDD）マスキングプロセッサプラグイン
 
 [简体中文](README.md) | [English](README.en.md) | **日本語**
 
 > 詳細マニュアル（中国語）：`2026-09-21-NDD脱敏处理器插件详细操作手册.md`
 > （インストール / 使い方 / ビルド / トラブルシューティング / 内部実装）
 
-[Notepad--](https://gitee.com/cxasm/notepad--)（NDD）用のプラグインです。
+[Notepad--](https://gitee.com/cxasm/notepad--)（通称 **NDD**）用のプラグインです。
 独自のキーワードマッピングテーブルを使い、現在のドキュメントを
 ワンクリックでマスキング（脱敏）・復元できます。
 
 ## ダウンロード
 
-- インストーラー（推奨）：[GitHub Releases](https://github.com/zhangqxgz/ndd-desensitive-processor/releases) から `desensitive_processor-v1.0.zip` をダウンロード
-- ソースコード：`git clone https://github.com/zhangqxgz/ndd-desensitive-processor.git`
+- インストーラー（推奨）：[GitHub Releases](https://github.com/zhangqxgz/notepad--ndd-desensitize-plugin/releases) から `desensitive_processor-v1.0.zip` をダウンロード
+- ソースコード：`git clone https://github.com/zhangqxgz/notepad--ndd-desensitize-plugin.git`
 
 ## 機能
 
@@ -59,7 +59,7 @@
 - Notepad--（NDD）本体：[Gitee](https://gitee.com/cxasm/notepad--) / [GitHub](https://github.com/cxasm/notepad--)
 - NDD 公式プラグインプロジェクト（サンプル・収録窓口）：[Gitee](https://gitee.com/cxasm/ndd-plugin) / [GitHub](https://github.com/cxasm/ndd-plugin)
 - NDD コミュニティプラグイン組織：[Gitee ndd-community](https://gitee.com/ndd-community)
-- 本プラグインの GitHub リポジトリ：https://github.com/zhangqxgz/ndd-desensitive-processor
+- 本プラグインの GitHub リポジトリ：https://github.com/zhangqxgz/notepad--ndd-desensitize-plugin
 
 ## ライセンス
 

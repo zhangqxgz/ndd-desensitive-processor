@@ -1,17 +1,18 @@
-# NDD Desensitization Processor Plugin (desensitive_processor)
+# Notepad-- (NDD) Desensitization Processor Plugin
 
 [简体中文](README.md) | **English** | [日本語](README.ja.md)
 
 > Detailed manual (Chinese): `2026-09-21-NDD脱敏处理器插件详细操作手册.md`
 > (installation / usage / build / troubleshooting / internals)
 
-A [Notepad--](https://gitee.com/cxasm/notepad--) (NDD) plugin that desensitizes
-and restores the current document in one click using a custom keyword mapping table.
+A [Notepad--](https://gitee.com/cxasm/notepad--) (also known as **NDD**) plugin that
+desensitizes and restores the current document in one click using a custom
+keyword mapping table.
 
 ## Download
 
-- Installer (recommended): [GitHub Releases](https://github.com/zhangqxgz/ndd-desensitive-processor/releases) — download `desensitive_processor-v1.0.zip`
-- Source: `git clone https://github.com/zhangqxgz/ndd-desensitive-processor.git`
+- Installer (recommended): [GitHub Releases](https://github.com/zhangqxgz/notepad--ndd-desensitize-plugin/releases) — download `desensitive_processor-v1.0.zip`
+- Source: `git clone https://github.com/zhangqxgz/notepad--ndd-desensitize-plugin.git`
 
 ## Features
 
@@ -58,7 +59,7 @@ the plugin must be rebuilt; the installer detects this and shows a warning.
 - Notepad-- (NDD) main program: [Gitee](https://gitee.com/cxasm/notepad--) / [GitHub](https://github.com/cxasm/notepad--)
 - Official NDD plugin project (examples & plugin submissions): [Gitee](https://gitee.com/cxasm/ndd-plugin) / [GitHub](https://github.com/cxasm/ndd-plugin)
 - NDD community plugin organization: [Gitee ndd-community](https://gitee.com/ndd-community)
-- This plugin on GitHub: https://github.com/zhangqxgz/ndd-desensitive-processor
+- This plugin on GitHub: https://github.com/zhangqxgz/notepad--ndd-desensitize-plugin
 
 ## License
 
